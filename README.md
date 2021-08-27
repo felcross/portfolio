@@ -1,6 +1,7 @@
 # portfolio
 
 Portfolio do desenvolvedor 
+*incompleto
 
 ## tarefas 
 
