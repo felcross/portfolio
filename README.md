@@ -1,7 +1,8 @@
-# portfolio
-.Esse foi o primeito projeto que subi pro git, não sabia quase nada ainda. 
-.Portfolio do desenvolvedor 
-.*incompleto
+# teste
+Esse foi o primeito projeto que subi pro git, não sabia quase nada ainda. 
+
+## Portfolio do desenvolvedor 
+*incompleto
 
 ## tarefas 
 
